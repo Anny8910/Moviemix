@@ -22,6 +22,3 @@ website is written in React.js using Context API and deployed with the help of F
 
 
 
-## Contributors:
-1. [Mohit Raj]( https://github.com/mohit355) (MENTOR)
-2. [Sonakshi Satpathy]( https://github.com/Sonakshi1901 )
